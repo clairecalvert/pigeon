@@ -1,0 +1,10 @@
+p {
+  font-family:Times;
+  font-size:65px;
+  background-color: #FF6699;
+  background-size: 350px;
+  float:right;
+  margin-right: 50px;
+  position:flex;
+  border:dotted black 10px;
+}
